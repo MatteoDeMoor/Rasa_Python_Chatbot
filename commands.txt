@@ -3,3 +3,8 @@ py -3.9 -m venv ./venv
 
 pip install rasa
 rasa init
+
+rasa train
+rasa train nlu
+
+rasa shell
