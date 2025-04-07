@@ -39,7 +39,6 @@ rasa init
 
 ```bash
 rasa train
-rasa train nlu
 ```
 
 ### 5. Running the Chatbot
