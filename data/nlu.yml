@@ -33,6 +33,10 @@ nlu:
 - intent: affirm
   examples: |
     - yes
+    - yeah
+    - sure
+    - yessir
+    - ye
     - y
     - indeed
     - of course
