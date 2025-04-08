@@ -3,3 +3,5 @@ venv
 models
 
 .rasa
+
+__pycache__
